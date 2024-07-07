@@ -1,0 +1,42 @@
+body{
+  	margin:0px;
+	background-image: url("backfon.jpg");
+}
+#header{
+  	font-size:70px;
+	color:white;
+	text-align: center;
+	border:3px solid white;
+	height:100px;
+
+}
+#menu{
+	text-align:center;
+	font-size:30px;
+  	width:190px;
+  	height:785px;
+	background-image: url("backfon.jpg");
+	border:1px solid white;
+
+}
+#content{
+	font-size:25px;
+	color:white;
+  	width:1305px;
+  	height:654px;
+	position:absolute;
+  	left:193px;
+  	top:103px;
+}
+a{
+  color:white;
+  text-decoration:none;
+}
+a:hover{
+  color:blue;
+}
+
+
+
+
+
